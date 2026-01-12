@@ -102,7 +102,7 @@ Audit Logging
 
  ├── BankSystem.py        # Main Python application (GUI + DB logic)
  
- ├── database_schema.txt # Database schema & table structure
+ ├── database_schema.sql # Database schema & table structure
  
  └── README.md           # Project documentation
 
